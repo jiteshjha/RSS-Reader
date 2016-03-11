@@ -1,5 +1,5 @@
 # RSS-Reader
-RSS Reader in Ruby on Rails and PostgresSQL
+RSS Reader in Ruby on Rails and SQLite
 
 ##Installation
 

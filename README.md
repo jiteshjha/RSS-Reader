@@ -3,7 +3,7 @@ RSS Reader in Ruby on Rails and PostgresSQL
 
 ##Installation
 
-1. `git clone https://github.com/jiteshjha/RSS-Reader.git' and 'cd RSS-Reader'.
+1. `git clone https://github.com/jiteshjha/RSS-Reader.git` and `cd RSS-Reader`
 2. Install gems with `bundle install`
 3. run `rake db:migrate`
 4. run 'rails server'
